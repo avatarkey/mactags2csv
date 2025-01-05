@@ -1,6 +1,8 @@
 # MacOS Tagged Files Analyzer
 
-This repository contains two Python scripts to help you analyze files tagged in MacOS. The first script generates a CSV file containing details of tagged files, while the second script creates an interactive line graph to visualize the growth of files over time based on their tags.
+I wrote two Python scripts to help you analyze files tagged in MacOS for educational process in data mining and visualizing charts. The first script generates a CSV file containing details of tagged files, while the second script creates an interactive line graph to visualize the growth of files over time based on their tags.
+
+You can use it to see the expansion of your tagged files over time, e.g personal photos or images, or your video library.
 
 ## Scripts
 
